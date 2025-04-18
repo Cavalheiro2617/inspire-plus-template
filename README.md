@@ -1,3 +1,3 @@
 # Inspire Plus
 
-Projeto completo React + Vite para deploy instantâneo no Vercel com 1 clique.
+Rede social motivacional com perfil, gamificação, comunidade e feed interativo.
